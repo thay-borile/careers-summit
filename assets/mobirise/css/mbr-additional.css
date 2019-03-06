@@ -1301,18 +1301,21 @@ body {
 .cid-rjXVZzOjAV {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #32064a;
 }
 .cid-rjXVZzOjAV .mbr-section-subtitle {
-  color: #767676;
+  color: #efefef;
+}
+.cid-rjXVZzOjAV .mbr-section-subtitle DIV {
+  color: #efefef;
 }
 .cid-rjXW2veheB {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #dab1f1;
 }
 .cid-rjXW2veheB .mbr-section-subtitle {
-  color: #767676;
+  color: #32064a;
 }
 .cid-rjXW2veheB .media-container-row {
   -webkit-flex-wrap: wrap;
@@ -1320,17 +1323,17 @@ body {
   flex-wrap: wrap;
 }
 .cid-rjXW2veheB .mbr-text {
-  color: #767676;
+  color: #efefef;
 }
 .cid-rjXW2veheB .mbr-author-desc {
   display: block;
-  color: #767676;
+  color: #efefef;
 }
 .cid-rjXW2veheB .mbr-author-name {
-  color: #767676;
+  color: #dab1f1;
 }
 .cid-rjXW2veheB .mbr-testimonial .panel-item {
-  background-color: #ffffff;
+  background-color: #32064a;
 }
 .cid-rjXW2veheB .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
@@ -1364,17 +1367,20 @@ body {
     height: auto !important;
   }
 }
+.cid-rjXW2veheB H2 {
+  color: #32064a;
+}
 .cid-rjXW6Dqhgc {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #32064a;
 }
 .cid-rjXW6Dqhgc .mbr-section-subtitle {
   color: #767676;
   font-weight: 300;
 }
 .cid-rjXW6Dqhgc .number-wrap {
-  color: #4f4943;
+  color: #dab1f1;
   border-color: rgba(255, 255, 255, 0.15);
   position: relative;
   display: inline-block;
@@ -1393,7 +1399,7 @@ body {
   letter-spacing: -2px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #232323;
+  color: #dab1f1;
 }
 .cid-rjXW6Dqhgc .period {
   display: block;
@@ -1415,7 +1421,7 @@ body {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #232323;
+  color: #dab1f1;
 }
 .cid-rjXW6Dqhgc .countdown-cont {
   max-width: 700px;
@@ -1452,6 +1458,9 @@ body {
   .cid-rjXW6Dqhgc .period {
     font-size: 0.8rem;
   }
+}
+.cid-rjXW6Dqhgc H2 {
+  color: #dab1f1;
 }
 .cid-rjXWfkZvbY .google-map {
   height: 25rem;
