@@ -1491,15 +1491,18 @@ body {
 .cid-rjXWizffLq {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #dab1f1;
 }
 .cid-rjXWizffLq .mbr-section-subtitle {
-  color: #767676;
+  color: #32064a;
+}
+.cid-rjXWizffLq H2 {
+  color: #32064a;
 }
 .cid-rjXWnVHyWD {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #32064a;
 }
 .cid-rjXWnVHyWD .pricing {
   padding: 3.3rem;
@@ -1534,10 +1537,14 @@ body {
 .cid-rjXWnVHyWD hr {
   margin: 2rem 0;
 }
+.cid-rjXWnVHyWD P {
+  text-align: left;
+  color: #32064a;
+}
 .cid-rjXWrX23Le {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #32064a;
 }
 .cid-rjXWrX23Le .socicon-bg-facebook {
   background: #3e5b98;
@@ -1578,6 +1585,9 @@ body {
   .cid-rjXWrX23Le .btn {
     font-size: 20px !important;
   }
+}
+.cid-rjXWrX23Le .mbr-section-title {
+  color: #dab1f1;
 }
 .cid-rjXWwbz9k7 {
   padding-top: 90px;
